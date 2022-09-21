@@ -640,4 +640,4 @@ This function is used only for visualisation purpose. You don't have to push it 
 
 ## Authors
 * **Kelechi Anyanwu** [LinkedIn](https://www.linkedin.com/in/kayceeanyanwu)
-* **Gideon Adebowale** [LinkedIn](https://www.linkedin.com/in/) 
+* **Gideon Adebowale** [LinkedIn](https://www.linkedin.com/in/gideon-adebowale-b34299197)
