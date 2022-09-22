@@ -5,7 +5,7 @@
  * @tree: pointer to the tree to check
  * @val: value to check against
  *
- * Return 1 (if true), 0 (if false)
+ * Return: 1 (if true), 0 (if false)
  */
 int greater_than(const binary_tree_t *tree, int val)
 {
@@ -28,7 +28,7 @@ int greater_than(const binary_tree_t *tree, int val)
  * @tree: pointer to the tree to check
  * @val: value to check against
  *
- * Return 1 (if true), 0 (if false)
+ * Return: 1 (if true), 0 (if false)
  */
 int less_than(const binary_tree_t *tree, int val)
 {

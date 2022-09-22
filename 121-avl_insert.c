@@ -24,6 +24,15 @@ avl_t *avl_insert(avl_t **tree, int value)
 	return (new);
 }
 
+/**
+ * avli_helper - avl_insert helper function
+ * @tree: double pointer to the root node of the AVL tree for inserting value
+ * @parent: parent of the node to be created
+ * @new: node to created
+ * @value: value to be inserted
+ *
+ * Return: a pointer to the created node, or NULL if failed
+ */
 avl_t *avli_helper(avl_t **tree, avl_t *parent, avl_t **new, int value)
 {
 	int bf;
